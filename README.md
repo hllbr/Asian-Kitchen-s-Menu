@@ -1,5 +1,11 @@
 # Asian-Kitchen-s-Menu
 https://www.patika.dev/tr
-![2022-08-30 18-28-44](https://user-images.githubusercontent.com/19255601/187478867-529b8b36-59c4-4e2f-9513-4ecf681def03.gif)
-https://user-images.githubusercontent.com/19255601/187478858-5846f8a0-4574-4662-ad1d-3fab1b9aad62.mp4
+
+
+![2022-08-30 18-28-44](https://user-images.githubusercontent.com/19255601/187479026-1ebbe46a-5a61-4c01-8b64-c1e2b939009b.gif)
+
+
+
+
+https://user-images.githubusercontent.com/19255601/187479108-fe79265b-5b2d-4047-af62-72686024965a.mp4
 
